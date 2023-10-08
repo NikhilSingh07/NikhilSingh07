@@ -3,22 +3,11 @@
   <h1 >Hi 👋, I'm Nikhil Singh</h1>
 
   <h3>A passionate Software Engineer</h3>
-  <img align="right" alt="Coding" width="250" src="https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/giphy.gif">
 
 </div>
-  <p> <img src="https://komarev.com/ghpvc/?username=nikhilsingh07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working on [Cognitive Assessment](https://github.com/NikhilSingh07/cognitiveAssessment)
 
-- 📫 How to reach me: [msit.nikhil@gmail.com](mailto:msit.nikhil@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nikhil-singh-msit" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
+## Skills and Experience
 
 <h3>Programming Languages:</h3>
 <p>
@@ -85,17 +74,21 @@
 </p>
 
 
+## Examples of work
+
+<img  align = "right" src = "https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/Imagelia_GIF.gif" width = "400">
 
 
-<!-- Your GitHub stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilsingh07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilsingh07&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsingh07&" alt="GitHub Streak" />
-</p>
+### IMAGELIA - Your Image-to-Text Companion:  
+
+IMAGELIA is an Android app I created. It turns text in images into digital text you can edit and save. I used Firebase ML Kit to make it accurate. You can save the text as a PDF, edit it, and share it easily. It's on Google Play for anyone to use worldwide. It makes dealing with text in images simple!
+
+
+
+
+
+
+
+
