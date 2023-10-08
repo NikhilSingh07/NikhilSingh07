@@ -43,6 +43,26 @@ IMAGELIA is an Android app I created. It turns text in images into digital text 
 <br> <!-- Add this line for extra line spacing -->
 
 
+
+
+### Rocket League Esports: Decoding Victory through Data Analytics:  
+
+<img align = "right" src = "https://rocketleague.media.zestyio.com/rl_platform_keyart_2019.jpg?width=1920&optimize=high" width = "300">
+
+Data Analytics for the Rocket League Esports project helps pro players enhance their performance. It analyzes game data from past matches, focusing on aspects like demolitions, ball possession, shots, goals, and assists. Our goal is to offer data-driven insights for better gameplay. We uncover patterns and trends to help players make strategic decisions during matches.
+
+
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+
+
 ## Skills and Experience
 
 <h3>Programming Languages:</h3>
