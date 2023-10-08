@@ -7,6 +7,43 @@
 </div>
 
 
+## Examples of work
+
+<img align = "right"  src = "https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/cognitive.gif" width = "300">
+
+### COGNITIVE ABILITIES ASSESSMENT:  
+
+Ever wondered about the growing number of older people with dementia in the UK, especially from diverse backgrounds? It's a significant issue, and traditional cognitive tests often have cultural and language biases. 
+
+That's where our web application comes in. We've built a user-friendly platform using **Node.js, Express.js, React.js and PostgreSQL** database to assess cognitive abilities without these biases. It's like a game format, where you explore items, search for hidden fruits, and challenge your memory. It's a fair and equal way to assess cognitive skills for everyone, regardless of their background or education level.
+
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+
+
+<img  align = "left" src = "https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/Imagelia_GIF.gif" width = "300">
+
+### IMAGELIA - Your Image-to-Text Companion:  
+
+IMAGELIA is an Android app I created. It turns text in images into digital text you can edit and save. I used Firebase ML Kit to make it accurate. You can save the text as a PDF, edit it, and share it easily. It's on Google Play for anyone to use worldwide. It makes dealing with text in images simple!
+
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+
+
 ## Skills and Experience
 
 <h3>Programming Languages:</h3>
@@ -74,16 +111,7 @@
 </p>
 
 
-## Examples of work
 
-<img  align = "right" src = "https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/Imagelia_GIF.gif" width = "400">
-
-
-
-
-### IMAGELIA - Your Image-to-Text Companion:  
-
-IMAGELIA is an Android app I created. It turns text in images into digital text you can edit and save. I used Firebase ML Kit to make it accurate. You can save the text as a PDF, edit it, and share it easily. It's on Google Play for anyone to use worldwide. It makes dealing with text in images simple!
 
 
 
