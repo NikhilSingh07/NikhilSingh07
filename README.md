@@ -50,7 +50,7 @@ IMAGELIA is an Android app I created. It turns text in images into digital text 
 
 
 
-### Rocket League Esports: Decoding Victory through Data Analytics:  
+### ROCKET LEAGUE ESPORTS: Decoding Victory through Data Analytics:  
 
 <img align = "right" src = "https://rocketleague.media.zestyio.com/rl_platform_keyart_2019.jpg?width=1920&optimize=high" width = "300">
 
