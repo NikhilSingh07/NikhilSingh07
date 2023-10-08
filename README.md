@@ -6,6 +6,9 @@
 
 </div>
 
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
 
 ## Examples of work
 
@@ -52,10 +55,6 @@ IMAGELIA is an Android app I created. It turns text in images into digital text 
 Data Analytics for the Rocket League Esports project helps pro players enhance their performance. It analyzes game data from past matches, focusing on aspects like demolitions, ball possession, shots, goals, and assists. Our goal is to offer data-driven insights for better gameplay. We uncover patterns and trends to help players make strategic decisions during matches.
 
 
-<br> <!-- Add this line for extra line spacing -->
-<br> <!-- Add this line for extra line spacing -->
-<br> <!-- Add this line for extra line spacing -->
-<br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
