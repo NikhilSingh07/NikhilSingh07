@@ -6,7 +6,7 @@
 
 # Nikhil Singh
 
-"Hi, I'm Nikhil, a dedicated software engineer with over a year of experience in professional environments. I hold a deep appreciation for writing clean and efficient code and constantly pursuing optimal solutions. I'm deeply committed to staying at the forefront of technology, always eager to explore the latest advancements in the dynamic field of computer science. My motivation to learn, grow, and excel in the IT industry drives me to create innovative applications.
+Hi, I'm Nikhil, a dedicated software engineer with over a year of experience in professional environments. I hold a deep appreciation for writing clean and efficient code and constantly pursuing optimal solutions. I'm deeply committed to staying at the forefront of technology, always eager to explore the latest advancements in the dynamic field of computer science. My motivation to learn, grow, and excel in the IT industry drives me to create innovative applications.
 
 <br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
