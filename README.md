@@ -3,7 +3,7 @@
   <h1 >Hi 👋, I'm Nikhil Singh</h1>
 
   <h3>A passionate Software Engineer</h3>
-  <img align="right" alt="Coding" width="250" src="https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/coding.gif">
+  <img align="right" alt="Coding" width="250" src="Secret/coding-unscreen.gif">
 
 </div>
   <p> <img src="https://komarev.com/ghpvc/?username=nikhilsingh07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
