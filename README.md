@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/SOFTWARE%20ENGINEER%20(3).png" alt="Logo">
-  <h1 >Hi 👋, I'm Nikhil Singh</h1>
-
-  <h3>A passionate Software Engineer</h3>
-
 </div>
+
+<br> <!-- Add this line for extra line spacing -->
+
+# Nikhil Singh
 
 <br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
