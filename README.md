@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/SOFTWARE%20ENGINEER%20(3).png" alt="Logo">
+  <h1 >Hi 👋, I'm Nikhil Singh</h1>
+
   <h3>A passionate Software Engineer</h3>
   <img align="right" alt="Coding" width="250" src="https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/coding.gif">
 
