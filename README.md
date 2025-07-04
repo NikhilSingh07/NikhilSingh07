@@ -28,7 +28,7 @@ That's where our web application comes in. We've built a user-friendly platform 
 <br> <!-- Add this line for extra line spacing -->
 
 
-<img  align = "left" src = "https://github.com/NikhilSingh07/MyChatAI/blob/main/screenshots/6.jpg" width = "300">
+<img  align = "left" src = "https://github.com/NikhilSingh07/MyChatAI/blob/main/screenshots/6.jpg" width = "270">
 
 ### ChatDoc AI:  
 
