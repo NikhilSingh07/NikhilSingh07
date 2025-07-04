@@ -28,7 +28,7 @@ That's where our web application comes in. We've built a user-friendly platform 
 <br> <!-- Add this line for extra line spacing -->
 
 
-<img  align = "left" src = "https://github.com/NikhilSingh07/MyChatAI/blob/main/screenshots/ezgif.com-animated-gif-maker.gif" width = "500">
+<img  align = "left" src = "https://github.com/NikhilSingh07/MyChatAI/blob/main/screenshots/6.jpg" width = "300">
 
 ### ChatDoc AI:  
 
@@ -40,6 +40,10 @@ ChatDoc AI is a Python application that lets you ask questions about one or more
 <br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
 
 <img  align = "right" src = "https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/Imagelia_GIF.gif" width = "300">
 
@@ -47,9 +51,6 @@ ChatDoc AI is a Python application that lets you ask questions about one or more
 
 IMAGELIA is an Android app I created. It turns text in images into digital text you can edit and save. I used Firebase ML Kit to make it accurate. You can save the text as a PDF, edit it, and share it easily. It's on Google Play for anyone to use worldwide. It makes dealing with text in images simple!
 
-<br> <!-- Add this line for extra line spacing -->
-<br> <!-- Add this line for extra line spacing -->
-<br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
