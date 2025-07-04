@@ -28,10 +28,20 @@ That's where our web application comes in. We've built a user-friendly platform 
 <br> <!-- Add this line for extra line spacing -->
 
 
+<img  align = "left" src = "https://github.com/NikhilSingh07/MyChatAI/blob/main/screenshots/ezgif.com-animated-gif-maker.gif" width = "500">
+
+### ChatDoc AI:  
+
+ChatDoc AI is a Python application that lets you ask questions about one or more PDF documents in plain English. Simply ask questions about the content of the PDFs, and the app will provide relevant and accurate answers by using a Retrieval-Augmented Generation (RAG) technique combined with a conversational retrieval chain and a language model. 
 
 
 
-<img  align = "left" src = "https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/Imagelia_GIF.gif" width = "300">
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+<br> <!-- Add this line for extra line spacing -->
+
+<img  align = "right" src = "https://github.com/NikhilSingh07/NikhilSingh07/blob/main/Secret/Imagelia_GIF.gif" width = "300">
 
 ### IMAGELIA - Your Image-to-Text Companion:  
 
@@ -52,7 +62,7 @@ IMAGELIA is an Android app I created. It turns text in images into digital text 
 
 ### ROCKET LEAGUE ESPORTS - Decoding Victory through Data Analytics:  
 
-<img align = "right" src = "https://github.com/NikhilSingh07/Data-Analytics-for-Rocket_League-Esports/blob/main/visualizationResults/Q1/Match_2_Relationship_between_Demo_Ballpossession_Goal.png" width = "450">
+<img align = "left" src = "https://github.com/NikhilSingh07/Data-Analytics-for-Rocket_League-Esports/blob/main/visualizationResults/Q1/Match_2_Relationship_between_Demo_Ballpossession_Goal.png" width = "450">
 
 Data Analytics for the Rocket League Esports project helps pro players enhance their performance. It analyzes game data from past matches, focusing on aspects like demolitions, ball possession, shots, goals, and assists. Our goal is to offer data-driven insights for better gameplay. We uncover patterns and trends to help players make strategic decisions during matches.
 
