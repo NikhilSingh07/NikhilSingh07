@@ -20,7 +20,7 @@ Hi, I'm Nikhil, a dedicated software engineer with over a year of experience in 
 
 Ever wondered about the growing number of older people with dementia in the UK, especially from diverse backgrounds? It's a significant issue, and traditional cognitive tests often have cultural and language biases. 
 
-That's where our web application comes in. We've built a user-friendly platform using **Node.js, Express.js, React.js and PostgreSQL** database to assess cognitive abilities without these biases. It's like a game format, where you explore items, search for hidden fruits, and challenge your memory. It's a fair and equal way to assess cognitive skills for everyone, regardless of their background or education level.
+That's where my cognitive application comes in. I've built a user-friendly platform using **Node.js, Express.js, React.js and PostgreSQL** database to assess cognitive abilities without these biases. It's like a game format, where you explore items, search for hidden fruits, and challenge your memory. It's a fair and equal way to assess cognitive skills for everyone, regardless of their background or education level.
 
 <br> <!-- Add this line for extra line spacing -->
 <br> <!-- Add this line for extra line spacing -->
